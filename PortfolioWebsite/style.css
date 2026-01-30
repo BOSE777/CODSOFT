@@ -1,0 +1,107 @@
+/* RESET */
+body {
+  background: red !important;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* BODY */
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: #f4f6f8;
+  color: #222;
+  line-height: 1.6;
+}
+
+/* HEADER */
+header {
+  background: #0f2a36;
+  padding: 20px 0;
+}
+
+header h1 {
+  color: #fff;
+  margin-left: 40px;
+}
+
+nav {
+  margin-left: 40px;
+}
+
+nav a {
+  color: #ddd;
+  text-decoration: none;
+  margin-right: 20px;
+  font-size: 14px;
+}
+
+nav a:hover {
+  color: #00ffff;
+}
+
+/* SECTIONS */
+section {
+  max-width: 900px;
+  margin: 60px auto;
+  padding: 0 20px;
+}
+
+/* HERO */
+.hero h2 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+.hero h3 {
+  color: #007acc;
+  letter-spacing: 2px;
+  margin-bottom: 15px;
+}
+
+.hero p {
+  font-size: 16px;
+  max-width: 600px;
+}
+
+/* BUTTON */
+a.btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 24px;
+  background: #007acc;
+  color: #fff;
+  border-radius: 6px;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+/* LISTS */
+ul {
+  margin-top: 15px;
+  margin-left: 20px;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+/* TITLES */
+section h2 {
+  font-size: 28px;
+  margin-bottom: 15px;
+  border-bottom: 2px solid #007acc;
+  display: inline-block;
+  padding-bottom: 5px;
+}
+
+/* FOOTER */
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #0f2a36;
+  color: #aaa;
+}
