@@ -15,7 +15,3 @@ It performs standard arithmetic operations with an interactive interface.
 - HTML5  
 - CSS3  
 - JavaScript  
-
-🔗 **Demo:** Click Here  
-
----
